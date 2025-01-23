@@ -188,4 +188,7 @@ footer a {
     .embed {
         aspect-ratio: 16/9;
     }
+    bloquote {
+        margin: 0 auto;
+    }
 }
